@@ -4,7 +4,7 @@ My name is Hasan, and currently studying Management Engineering at the Universit
 
 I have a huge interest in tackling real world problems with technical solutions. I love pushing the boundries of my skills and knowlege, and I'm always looking for experiences that expose me to different and upcoming technologies.
 
-My field of study, Management Engineering, is an interdisciplinary program focused on Industrial Engineering principles, Software Engineering, Data Analytics, and Stats + Optimization.
+My field of study, Management Engineering, is an interdisciplinary program focused on Software Engineering, Data Analytics, Stats + Optimization, and Industrial Engineering principles.
 
 #
 
