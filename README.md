@@ -33,3 +33,9 @@ My field of study, Management Engineering, is an interdisciplinary program focus
 - 🌱 I’m currently learning machine learning with PyTorch, front-end development with ReactJS, and Minecraft Modding with Java
 - 👯 I’m looking to contribute to any projects that align with my skills
 - 📫 You can reach me through [email](baig.hasan@outlook.com) or [LinkedIn](https://www.linkedin.com/in/hasan-baig-mgte/). I'm always open to coffee chat!
+
+#
+
+### Stats
+
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baighasan&show_icons=true&theme=merko)
