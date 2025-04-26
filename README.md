@@ -30,7 +30,7 @@ My field of study, Management Engineering, is an interdisciplinary program focus
 #
 
 - 🔭 I’m currently working on the Autonomy team for the Waterloo Aerial Robotics Group, utilizing Python, Ultralytics, PyTorch and other technologies to create autonomous flight.
-- 🌱 I’m currently learning machine learning with PyTorch, CI/CD using GitHub Actions, and Minecraft Modding with Java
+- 🌱 I’m currently learning how to build MCP servers in Python and Minecraft Modding with Java!
 - 👯 I’m looking to contribute to any projects that align with my skills
 - 📫 You can reach me through [email](baig.hasan@outlook.com) or [LinkedIn](https://www.linkedin.com/in/hasan-baig-mgte/). I'm always open to coffee chat!
 
