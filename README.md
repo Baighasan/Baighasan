@@ -2,7 +2,7 @@
 
 My name is Hasan, and I'm currently studying Management Engineering at the University of Waterloo!
 
-I have a huge interest in tackling real world problems with technical solutions. I love pushing the boundries of my skills and knowledge, and I'm always looking for projects and experiences that expose me to different and upcoming technologies.
+I have a huge passion for building things that impact real people. I love pushing the boundries of my skills and knowledge, and I'm always looking for projects and experiences that expose me to new experiences.
 
 My field of study, Management Engineering, is an interdisciplinary program focused on Software Engineering 💻, Data Analytics 📊, Stats + Optimization 📈, and Industrial Engineering principles ⚙️.
 
