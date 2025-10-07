@@ -27,10 +27,10 @@ My field of study, Management Engineering, is an interdisciplinary program focus
 
 #
 
-- 🚗 I’m currently working at Toyota on AGV traffic orchestration systems, focusing on minimizing AGV downtime and improving operational efficiency across North American manufacturing facilities.
-- 🔨 I’m building out Chat Royale, an agentic platform powered by MCP (Model Context Protocol) technologies.
+- 💻 I’m currently working at the UW MSA building their mobile app to support Waterloo's Muslim community.
+- 🔨 I’m building out Chat Royale, an agentic platform powered by MCP (Model Context Protocol) technologies focused on providing insights into Clash Royale.
 - 👯 I’m looking to contribute to any projects that align with my skills
-- 📫 You can reach me through [email](h5baig@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/hasan-baig-mgte/). I'm always open to coffee chat!
+- 📫 You can reach me through [email](h5baig@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/hasan-baig-mgte/). I'm always open to chat!
 
 #
 
