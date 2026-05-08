@@ -22,7 +22,7 @@ My name is Hasan, and I'm currently studying Management Engineering at the Unive
 
 
 - 💻 I recently wrapped up an internship at Tenstorrent, where I built out CI infrastructure to support self hosted runners across all TT repos!
-- 🔨 I'm currently building Kubecraft, a platform that allows users to easily spin up and manage Minecraft servers. I'm using this project to deepen my knowledge of Kubernetes, Golang, Terraform and more
+- 🔨 I'm currently building Kubecraft, a cli tool that allows users to effortlessly spin up and manage Minecraft servers. I'm using this project to deepen my knowledge of Kubernetes, Golang, Terraform and more
 - 👯 I’m looking for fall internships in infrastructure roles
 - 📫 You can reach me through [email](h5baig@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/hasan-baig-mgte/). I'm always open to chat!
 
